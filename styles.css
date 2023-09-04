@@ -806,4 +806,10 @@ a{
   width:50%;
   margin: 2rem 5rem;
 }
+ .user-image img{
+  width: 55%;
+ height: 55%;
+  z-index:-9;
+}
+
 }
